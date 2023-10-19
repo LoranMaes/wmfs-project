@@ -16,8 +16,8 @@ Laravel 9 project folder structure for the course Web &amp; Mobile Full-stack, p
 mkdir my-project
 cd my-project
 git init
-git pull https://gitlab.com/ikdoeict/joris.maervoet/wmfs-laravel-boilerplate.git
-git remote add origin https://gitlab.com/ikdoeict/<your-name>/my-project.git
+git pull https://github.com/LoranMaes/wmfs-project.git
+git remote add origin https://github.com/ikdoeict/<your-name>/my-project.git
 git push -u origin master
 ```
 3. From now on, you can stage, commit and push as usual.
